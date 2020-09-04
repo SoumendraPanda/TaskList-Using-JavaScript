@@ -1,3 +1,6 @@
 # TaskList-Using-JavaScript
-An actual application where we can add task where we can list them we can filter through them delete them
-and also persist them to localstorage so that they get saved they don't  just disappear when we reload the page.
+
+1)It is a JS based application that allows us to add task
+2)Filter task
+3)delete tasks
+4)also it allows us to persist them to local storage so that they don't disappear
